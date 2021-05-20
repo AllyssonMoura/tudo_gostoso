@@ -7,7 +7,7 @@ import 'package:tudo_gostoso/style.dart';
 
 class Home extends StatelessWidget {
   final Recipe recipe = Recipe(
-      photo: "assets/images/bolo.jpg",
+      photo: "assets/images/bolo.jpeg",
       name: "Bolo Gelado de Coco",
       preparationTime: 40,
       numberOfFavorite: 332936,
